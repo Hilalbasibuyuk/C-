@@ -1,0 +1,18 @@
+PressureData: 900.25
+13
+TemperatureData: 29.0896
+HumidityData: 63.8151
+TemperatureData: 19.8326
+PressureData: 1012.72
+TemperatureData: 35.2185
+HumidityData: 41.5983
+TemperatureData: 29.6252
+PressureData: 938.661
+HumidityData: 78.5244
+TemperatureData: 26.9968
+TemperatureData: 23.7573
+HumidityData: 65.1006
+PressureData: 1061.75
+TemperatureData: 37.3991
+TemperatureData: 35.571
+HumidityData: 58.7924
